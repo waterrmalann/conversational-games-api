@@ -1,0 +1,220 @@
+{
+    "questions": [
+        {
+            "option1": "always be 10 minutes late",
+            "option2": "always be 20 minutes early"
+        },
+        {
+            "option1": "have unlimited money",
+            "option2": "have unlimited time"
+        },
+        {
+            "option1": "travel the world",
+            "option2": "live in outer space"
+        },
+        {
+            "option1": "be able to fly",
+            "option2": "be invisible"
+        },
+        {
+            "option1": "have the power of super strength",
+            "option2": "have the power of telekinesis"
+        },
+        {
+            "option1": "be a famous actor",
+            "option2": "be a successful musician"
+        },
+        {
+            "option1": "have a photographic memory",
+            "option2": "have the ability to forget anything you want"
+        },
+        {
+            "option1": "be an excellent singer",
+            "option2": "be a master dancer"
+        },
+        {
+            "option1": "be able to speak all languages",
+            "option2": "be able to play all musical instruments"
+        },
+        {
+            "option1": "have the power of mind reading",
+            "option2": "have the power of teleportation"
+        },
+        {
+            "option1": "live in a treehouse",
+            "option2": "live in an underground bunker"
+        },
+        {
+            "option1": "have a personal chef",
+            "option2": "have a personal chauffeur"
+        },
+        {
+            "option1": "have the ability to time travel",
+            "option2": "have the ability to see the future"
+        },
+        {
+            "option1": "be a famous author",
+            "option2": "be a famous painter"
+        },
+        {
+            "option1": "have a pet dinosaur",
+            "option2": "have a pet dragon"
+        },
+        {
+            "option1": "be able to breathe underwater",
+            "option2": "be able to fly in the sky"
+        },
+        {
+            "option1": "have a lifetime supply of pizza",
+            "option2": "have a lifetime supply of ice cream"
+        },
+        {
+            "option1": "be able to talk to animals",
+            "option2": "be able to speak all human languages"
+        },
+        {
+            "option1": "live in a world with no internet",
+            "option2": "live in a world with no television"
+        },
+        {
+            "option1": "have the power to heal others",
+            "option2": "have the power to time travel"
+        },
+        {
+            "option1": "be able to control fire",
+            "option2": "be able to control water"
+        },
+        {
+            "option1": "be able to teleport anywhere",
+            "option2": "be able to read minds"
+        },
+        {
+            "option1": "have a personal robot",
+            "option2": "have a personal spaceship"
+        },
+        {
+            "option1": "be an Olympic gold medalist",
+            "option2": "be a Nobel Prize winner"
+        },
+        {
+            "option1": "have a rewind button in your life",
+            "option2": "have a pause button in your life"
+        },
+        {
+            "option1": "have the ability to talk to plants",
+            "option2": "have the ability to talk to ghosts"
+        },
+        {
+            "option1": "be a master of martial arts",
+            "option2": "be a master of meditation"
+        },
+        {
+            "option1": "have the ability to change the past",
+            "option2": "have the ability to change the future"
+        },
+        {
+            "option1": "be an expert in playing chess",
+            "option2": "be an expert in playing poker"
+        },
+        {
+            "option1": "live in a world without music",
+            "option2": "live in a world without movies"
+        },
+        {
+            "option1": "have the ability to breathe fire",
+            "option2": "have the ability to turn invisible"
+        },
+        {
+            "option1": "be a professional athlete",
+            "option2": "be a successful entrepreneur"
+        },
+        {
+            "option1": "be able to speak with your past self",
+            "option2": "be able to speak with your future self"
+        },
+        {
+            "option1": "have the power to control the weather",
+            "option2": "have the power to control animals"
+        },
+        {
+            "option1": "be a famous scientist",
+            "option2": "be a famous musician"
+        },
+        {
+            "option1": "have a personal assistant",
+            "option2": "have a personal stylist"
+        },
+        {
+            "option1": "be a famous chef",
+            "option2": "be a famous fashion designer"
+        },
+        {
+            "option1": "have the ability to read people's minds",
+            "option2": "have the ability to see the future"
+        },
+        {
+            "option1": "be a professional dancer",
+            "option2": "be a professional actor"
+        },
+        {
+            "option1": "have the power to control technology",
+            "option2": "have the power to control nature"
+        },
+        {
+            "option1": "be able to eat only sweet foods",
+            "option2": "be able to eat only savory foods"
+        },
+        {
+            "option1": "have the ability to talk to sea creatures",
+            "option2": "have the ability to talk to birds"
+        },
+        {
+            "option1": "be a famous athlete",
+            "option2": "be a famous artist"
+        },
+        {
+            "option1": "have the ability to freeze time",
+            "option2": "have the ability to rewind time"
+        },
+        {
+            "option1": "have a personal library",
+            "option2": "have a personal cinema"
+        },
+        {
+            "option1": "have the power of super speed",
+            "option2": "have the power of super intelligence"
+        },
+        {
+            "option1": "be a successful actor",
+            "option2": "be a successful entrepreneur"
+        },
+        {
+            "option1": "have the ability to talk to plants",
+            "option2": "have the ability to talk to animals"
+        },
+        {
+            "option1": "live in a world with no books",
+            "option2": "live in a world with no music"
+        },
+        {
+            "option1": "have the power to control fire",
+            "option2": "have the power to control air"
+        },
+        {
+            "option1": "be able to understand all languages",
+            "option2": "be able to play all musical instruments"
+        },
+        {
+            "option1": "have the power of invisibility",
+            "option2": "have the power of mind control"
+        },
+        {
+            "option1": "be a famous writer",
+            "option2": "be a famous scientist"
+        },
+        {
+            "option1": "have the ability to time travel",
+            "option2": "have the ability to teleport"
+        }
+    ]
+}
